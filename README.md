@@ -79,3 +79,9 @@ Contributions are welcome. Please refer to the [Contributing Guidelines](CONTRIB
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Author
+
+**Huzaifa Shoukat**
+- Email: ihuzaifashoukat@gmail.com
+- GitHub: [@ihuzaifashoukat](https://github.com/ihuzaifashoukat)

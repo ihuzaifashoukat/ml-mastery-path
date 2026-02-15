@@ -19,6 +19,7 @@ If you have questions about the project, please verify that you have reviewing t
 If you cannot find an answer:
 - Open an [Issue](https://github.com/ihuzaifashoukat/ml-mastery-path/issues/new).
 - Provide context and details about your inquiry.
+- Contact the maintainer at **ihuzaifashoukat@gmail.com**.
 
 ## How to Contribute
 
